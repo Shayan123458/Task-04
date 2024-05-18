@@ -1,3 +1,1 @@
-let personName = "Quaid-e-Azam";
-let famousQuote = "There is no power on earth that can undo Pakistan"
-console.log(`${personName} once said, ${famousQuote}`)
+console.log("Quaid-e-Azam once said, There is no power on earth that can undo Pakistan")
